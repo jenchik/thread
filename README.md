@@ -2,6 +2,7 @@
 Asynchonous goroutine pool for Golang
 
 [![Build Status](https://travis-ci.org/jenchik/thread.svg)](https://travis-ci.org/jenchik/thread)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jenchik/thread)](https://goreportcard.com/report/github.com/jenchik/thread)
 
 Installation
 ------------
